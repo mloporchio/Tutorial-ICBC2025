@@ -6,9 +6,9 @@ This repository contains the source code for the examples shown during the tutor
 
 The code is organized into two main modules:
 
-- `Bilinear`: This module contains an example showing how to instantiate a bilinear accumulator scheme using the Cryptimeleon Java library.
+- `bilinear`: This module contains an example showing how to instantiate a bilinear accumulator scheme using the Cryptimeleon Java library.
 
-- `Spatial`: This module contains code for the implementation of a Merkle R-tree, an authenticated data structure that can be used to store and query spatial data efficiently.
+- `spatial`: This module contains code for the implementation of a Merkle R-tree, an authenticated data structure that can be used to store and query spatial data efficiently.
 
 # Requirements
 
