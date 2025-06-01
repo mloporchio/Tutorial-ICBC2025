@@ -18,4 +18,4 @@ To run the example, follow these steps:
    ```bash
    java -cp ".:lib/*" BilinearAccumulatorExample
    ```
-3. The output will show the creation of the bilinear accumulator, the addition of elements, and the verification of membership for those elements.
+3. The output will show the accumulator value after insertion and the membership witness for an element in the set.
