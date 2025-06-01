@@ -10,7 +10,16 @@ import org.cryptimeleon.craco.accumulator.nguyen.*;
 
 import org.cryptimeleon.math.structures.rings.zn.*;
 
+/**
+ * This example demonstrates the use of the Nguyen Accumulator Scheme with a Barreto-Naehrig bilinear group.
+ * This example hashes a set of integers, creates an accumulator, and generates a witness for one of the integers.  
+ * @author Matteo Loporchio
+ */
 public class Example {
+    /**
+     * The maximum number of elements that can be inserted into the accumulator.
+     * This value should be set according to the specific use case and security requirements.
+     */
     public static final int maxElements = 1024;
 
     public static void main(String[] args) {

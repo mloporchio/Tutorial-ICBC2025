@@ -1,0 +1,17 @@
+# Set Accumulators and their Applications to Blockchain Systems
+
+This folder contains the source code for the examples shown during the tutorial "Set Accumulators and their Applications to Blockchain Systems" presented by Matteo Loporchio at IEEE ICBC 2025 - 7th International Conference on Blockchain and Cryptocurrency.
+
+# Modules
+
+The code is organized into two main modules:
+
+- `Bilinear`: This module contains an example showing how to instantiate a bilinear accumulator scheme using the Cryptimeleon Java library.
+
+- `Spatial`: This module contains code for the implementation of a Merkle R-tree, a spatial authenticated data structure that can be used to store and query spatial data efficiently.
+
+# Requirements
+
+To run the code, Java 11 or higher is required. The code has been tested with OpenJDK 11 and OpenJDK 17.
+
+
